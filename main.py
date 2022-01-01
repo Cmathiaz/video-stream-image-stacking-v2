@@ -37,7 +37,7 @@ portnumber = '554'  # rtsp video stream port address
 H = 0
 W = 0
 Ch = 0
-nframes = 25*60  # number of frames for averaging, 25 is the typical fps
+nframes = 25*4  # number of frames for averaging, 25 is the typical fps
 
 # Create the circle
 colour = (0, 0, 255)
