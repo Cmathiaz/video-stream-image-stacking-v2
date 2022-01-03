@@ -2,7 +2,7 @@
 #
 # Version 2.1
 # left mouse click to select a small region for real-time averaging.
-# Stacked photo appears is another live widow that can be zoomed or
+# Stacked photo appears in another live widow that can be zoomed or
 # resized. right mouse click pauses averaging. left mouse click selects
 # a region and starts again. press q to abort.
 #
